@@ -13,5 +13,6 @@ This is the final project for the course CS-E5710 Bayesian Data Analysis D at Aa
 ## Modelling
 
 - Knowing that the data comes from engines with same type but with different ages, it is possible to use the data optimally under a Bayesian framework. Therefore, the hierarchical model, considering each engine as a group, was one of the potential models to test. In addition, a pooled model is another potential option to test if we assume that the data comes from same group.
-- We use two covariates: *time* and *age*
+- We use two covariates: *time* and *age*.
+
 The goal is to model the *ignition voltage* using the two covariates
